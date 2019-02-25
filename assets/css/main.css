@@ -2172,3 +2172,9 @@ input, select, textarea {
 			}
 
 		}
+
+/* Custom styling added by DW */
+
+	#centreblocktext {
+		text-align: center;
+	}

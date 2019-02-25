@@ -2179,7 +2179,7 @@ input, select, textarea {
 		text-align: center;
 	}
 
-	.centerimage {
+	#centerimage {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;

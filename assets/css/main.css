@@ -2178,3 +2178,10 @@ input, select, textarea {
 	#centreblocktext {
 		text-align: center;
 	}
+
+	.centerimage {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 90%;
+	}

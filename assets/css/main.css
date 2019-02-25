@@ -2189,7 +2189,7 @@ input, select, textarea {
 	#topnav {
 		color: rgba(0, 0, 0);
 		text-align: center;
-		padding: 2em 0 0 0;
+		padding: 0 0 0 0;
 		font-size: 0.75em;
 	}
 

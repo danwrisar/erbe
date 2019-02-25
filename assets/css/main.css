@@ -2183,8 +2183,7 @@ input, select, textarea {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
-		width: 90%;
-	}
+		}
 
 	#topnav {
 		color: rgba(0, 0, 0);
